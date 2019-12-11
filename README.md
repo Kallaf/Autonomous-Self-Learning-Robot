@@ -12,6 +12,6 @@ When it meets crossroad it
 when it meets the crossroads it select the correct road (which it knowns from the first stage) so it reach the end directly without searching.
 
 
-## watch Video
+## Watch video
 
 [![Watch the video](https://github.com/Kallaf/Autonomous-Self-Learning-Robot/blob/master/robot.jpg?raw=true)](https://youtu.be/a93h3AvKJaw)
